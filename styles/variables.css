@@ -1,0 +1,22 @@
+/* Variables */
+:root {
+	/* colors */
+	--primary-color: #ff0000;
+	--secondary-color: ;
+
+	--white-color: #ffffff;
+	--black-color: #000000;
+
+	/* fonts */
+	--title-font: ;
+	--text-font: ;
+
+	/* fonts size */
+	--global-font-size: 16px;
+	--title-font-size: ;
+
+	/* Line height */
+	--global-line-height: 1.5;
+
+	--wrapper-width: 80%;
+}
